@@ -1,0 +1,48 @@
+.Foot{
+    padding-top: 50px;
+    display: flex;
+    height: 160px;
+    position:relative;
+    justify-content: space-between;
+    background-color:gray;  
+}
+
+.img{
+   margin-left: 600px;  
+}
+
+.img1{
+    margin-top: 20px;
+    margin-right: 30px;
+    height: 60px;
+    width: 60px;
+    
+}
+
+.img2{
+    margin-top: 20px;
+    margin-right: 40px;
+    height:  60px;
+    width:  60px;
+    
+    
+}
+
+.img3{
+
+    margin-top: 20px;
+    margin-right: 30px;
+    height: 60px;
+    width:  60px;
+    
+    
+}
+
+.img4{
+    margin-top: 20px;
+    margin-left: 0px;
+    height: 60px;
+    width:  60px;
+    
+    
+}
